@@ -1,7 +1,7 @@
 
 
 <div align="center">
-    <img alt="konak_network_logo" style="width:512px" src="https://cdn.discordapp.com/attachments/1076433642034823208/1076458006893563966/konak_network_sub.png" />
+    <img alt="konak_network_logo" style="width:512px" src="https://cdn.discordapp.com/attachments/1076433642034823208/1076638417812721674/konak_network_sub2.png" />
 
 [![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4yKqgZjYPH)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/konakzinho/)
