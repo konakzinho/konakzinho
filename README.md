@@ -35,7 +35,7 @@
     <div style="text-align:center">
   <img alt="Rafa-pic" height="115" style="border-radius:5px;" src="https://cdn.discordapp.com/attachments/1076433642034823208/1076614671026634762/avatar.png?width=676&height=676">
 
-  [![Blog](https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white)](https://picpay.me/wallsmello)
+  [![Blog](https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white)](https://picpay.me/konak)
 <br>
 Buy me a coffee?
 
